@@ -1,0 +1,152 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Geneva", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+@font-face {
+    font-family: 'MiniSet2';
+    src:url('MiniSet2.ttf.woff') format('woff'),
+        url('MiniSet2.ttf.svg#MiniSet2') format('svg'),
+        url('MiniSet2.ttf.eot'),
+        url('MiniSet2.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+body {
+    background-color: #fdfdfd;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 50px 37px;
+    font-family: "Geneva", Helvetica, Arial, sans-serif;
+}
+
+.logotype {
+    font-family: 'MiniSet2', sans-serif;
+    margin-bottom: 55px;
+}
+
+.cards-list {
+    list-style: none;
+    padding: 0;
+}
+
+.card {
+    width: 160px;
+    height: 301px;
+    float: left;
+    margin-right: 9px;
+    margin-bottom: 9px;
+    color: white;
+    display: block;
+    font-size: 11px;
+}
+
+.card-background {
+    height: 252px;
+    padding: 25px 32px;
+    position: relative;
+}
+
+.card-links {
+    text-align: center;
+    padding: 0;
+    padding-top: 14px;
+
+    li {
+        list-style: none;
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        margin: 0 3px;
+    }
+}
+
+.card-links a {
+    color: inherit;
+}
+
+.card-links a:hover{
+    color: black;
+}
+
+.card-links a.disabled {
+    color: #ccc !important;
+    // cursor: pointer;
+}
+
+.card-icon {
+    width: 92px;
+}
+
+.card-title {
+    font-size: 16px;
+    margin-bottom: 1px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+.card-creator {
+}
+
+.card-version {
+}
+
+.card-date {
+}
+
+.card-bottom-right {
+    position: absolute;
+    right: 32px;
+    bottom: 25px;
+    width: 96px;
+    height: 3em;
+    text-align: right;
+}
+
+svg {
+    fill: currentColor;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "syntax-highlighting"
+;

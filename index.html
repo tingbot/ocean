@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="cards-list">
+    {% for app in site.data.apps %}
+      <li class="card">
+        <div class="card-background" style="background-color: #{{ app.background_color }}">
+          <img class="card-icon" src="{{ app.icon }}" />
+
+          <h2 class="card-title">
+            {{ app.name }}
+          </h2>
+          <div class="card-creator">
+            by {{ app.creator }}
+          </div>
+
+          <div class="card-bottom-right">
+            <div class="card-version">
+              {{ app.version }}
+            </div>
+            <div class="card-date">
+              {{ app.modified_date }}
+            </div>
+          </div>
+        </div>
+
+        <ul class="card-links" style="color: #{{ app.background_color }}">
+          {% if app.screenshot_url %}
+          <li>
+            <a  href="{{ app.screenshot_url }}" >
+              <svg viewBox="0 0 22 22">
+                <use xlink:href="#icon-camera"></use>
+              </svg>
+            </a>
+          </li>
+          {% endif %}
+          
+          {% if app.zip_url %}
+          <li>
+            <a href="{{ app.zip_url }}">
+              <svg viewBox="0 0 22 22">
+                <use xlink:href="#icon-download"></use>
+              </svg>          
+            </a>
+          </li>
+          {% endif %}
+          
+          {% if app.github_url %}
+          <li>
+            <a href="{{ app.github_url }}">
+              <svg viewBox="0 0 22 22">
+                <use xlink:href="#icon-github"></use>
+              </svg>          
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
