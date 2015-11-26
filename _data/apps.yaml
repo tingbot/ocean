@@ -53,6 +53,15 @@
   github_url: 
   zip_url:
 
+- name: Flappy Bird Clone
+  creator: joerick
+  version: v0.1
+  modified_date: 26 Nov 2015
+  background_color: 00afec
+  icon: /img/apps/FlappyBird-192x192.png
+  github_url: https://github.com/joerick/FlappyBird
+  zip_url: https://github.com/joerick/FlappyBird/archive/master.zip
+
 - name: It's Nice That
   creator: Tingbot
   version: v0.1
