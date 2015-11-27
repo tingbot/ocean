@@ -146,6 +146,17 @@ svg {
     fill: currentColor;
 }
 
+.sidebar {
+    padding-bottom: 80px;
+}
+
+.sidebar-text {
+    color: #888;
+    line-height: 140%;
+    font-size: 13px;
+    font-family: Consolas, Menlo, monospace;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "syntax-highlighting"
