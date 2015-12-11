@@ -47,11 +47,11 @@
 - name: Clock
   creator: Tingbot
   version: v0.1
-  modified_date: 19 Nov 2015
+  modified_date: 11 Dec 2015
   background_color: fec852
   icon: /img/apps/Clock-192x192.png
-  github_url: 
-  zip_url:
+  github_url: https://github.com/tingbot-apps/clock
+  zip_url: https://github.com/tingbot-apps/clock/archive/master.zip
 
 - name: Flappy Bird Clone
   creator: joerick
