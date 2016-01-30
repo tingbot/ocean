@@ -1,3 +1,13 @@
+- name: Shoutout
+  creator: Tingbot
+  version: v1.0
+  modified_date: 30 Jan 2016
+  background_color: 3a3a3c
+  icon: /img/apps/Shoutout-192x192.png
+  github_url: https://github.com/tingbot-apps/shoutout
+  zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
+  screenshot_url: /img/screenshots/Shoutout.png
+
 - name: Weather
   creator: Tingbot
   version: v0.1
