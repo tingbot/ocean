@@ -8,6 +8,15 @@
   zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
   screenshot_url: /img/screenshots/Shoutout.png
 
+- name: Hangman
+  creator: Robert
+  version: v0.1
+  modified_date: 1 May 2016
+  background_color: fec852
+  icon: /img/apps/Hangman-192x192.png
+  github_url: https://github.com/StraightTuber/TingbotHangman
+  zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
+
 - name: Weather
   creator: Tingbot
   version: v0.1
