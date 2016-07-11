@@ -2,7 +2,7 @@
   creator: Tingbot
   version: v1.0
   modified_date: 30 Jan 2016
-  background_color: 3a3a3c
+  background_color: "3a3a3c"
   icon: /img/apps/Shoutout-192x192.png
   github_url: https://github.com/tingbot-apps/shoutout
   zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
@@ -12,7 +12,7 @@
   creator: Robert
   version: v0.1
   modified_date: 1 May 2016
-  background_color: fec852
+  background_color: "fec852"
   icon: /img/apps/Hangman-192x192.png
   github_url: https://github.com/StraightTuber/TingbotHangman
   zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
@@ -21,7 +21,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 00afec
+  background_color: "00afec"
   icon: /img/apps/Weather-192x192.png
   github_url: https://github.com/tingbot-apps/weather
   zip_url: https://github.com/tingbot-apps/weather/archive/master.zip
@@ -30,7 +30,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 194476
+  background_color: "194476"
   icon: /img/apps/NyanCat-192x192.png
   github_url: https://github.com/tingbot-apps/nyan-cat
   zip_url: https://github.com/tingbot-apps/nyan-cat/archive/master.zip
@@ -40,7 +40,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: ea148c
+  background_color: "ea148c"
   icon: /img/apps/BusTracker-192x192.png
   github_url: https://github.com/tingbot-apps/bus-tracker
   zip_url: https://github.com/tingbot-apps/bus-tracker/archive/master.zip
@@ -49,7 +49,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 00afec
+  background_color: "00afec"
   icon: /img/apps/PongClock-192x192.png
   github_url: https://github.com/tingbot-apps/pong-clock
   zip_url: https://github.com/tingbot-apps/pong-clock/archive/master.zip
@@ -58,7 +58,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: ea148c
+  background_color: "ea148c"
   icon: /img/apps/ProductHunt-192x192.png
   github_url: https://github.com/tingbot-apps/product-hunt
   zip_url: https://github.com/tingbot-apps/product-hunt/archive/master.zip
@@ -67,7 +67,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 11 Dec 2015
-  background_color: fec852
+  background_color: "fec852"
   icon: /img/apps/Clock-192x192.png
   github_url: https://github.com/tingbot-apps/clock
   zip_url: https://github.com/tingbot-apps/clock/archive/master.zip
@@ -76,7 +76,7 @@
   creator: joerick
   version: v0.1
   modified_date: 26 Nov 2015
-  background_color: 00afec
+  background_color: "00afec"
   icon: /img/apps/FlappyBird-192x192.png
   github_url: https://github.com/joerick/FlappyBird
   zip_url: https://github.com/joerick/FlappyBird/archive/master.zip
@@ -85,7 +85,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 3a3a3c
+  background_color: "3a3a3c"
   icon: /img/apps/ItsNiceThat-192x192.png
   github_url: https://github.com/tingbot-apps/its-nice-that
   zip_url: https://github.com/tingbot-apps/its-nice-that/archive/master.zip
@@ -94,7 +94,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 00afec
+  background_color: "00afec"
   icon: /img/apps/DrawingTest-192x192.png
   github_url: https://github.com/tingbot-apps/drawing-test
   zip_url: https://github.com/tingbot-apps/drawing-test/archive/master.zip
@@ -103,7 +103,7 @@
   creator: Tingbot
   version: v0.1
   modified_date: 19 Nov 2015
-  background_color: 3a3a3c
+  background_color: "3a3a3c"
   icon: /img/apps/ImgurFeed-192x192.png
   github_url: https://github.com/tingbot-apps/imgur-feed
   zip_url: https://github.com/tingbot-apps/imgur-feed/archive/master.zip
