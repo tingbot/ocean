@@ -107,3 +107,12 @@
   icon: /img/apps/ImgurFeed-192x192.png
   github_url: https://github.com/tingbot-apps/imgur-feed
   zip_url: https://github.com/tingbot-apps/imgur-feed/archive/master.zip
+
+- name: Adventure Time Giphy
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 22 Sep 2016
+  background_color: "63c5ae"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-adventure-time-giphy/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-adventure-time-giphy
+  zip_url: https://github.com/omgmog/tingbot-adventure-time-giphy/releases/download/1.0.0/Adventure.Time.Giphy.tingapp.zip
