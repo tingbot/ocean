@@ -116,3 +116,12 @@
   icon: https://raw.githubusercontent.com/omgmog/tingbot-adventure-time-giphy/master/src/icon.png
   github_url: https://github.com/omgmog/tingbot-adventure-time-giphy
   zip_url: https://github.com/omgmog/tingbot-adventure-time-giphy/releases/download/1.0.0/Adventure.Time.Giphy.tingapp.zip
+
+- name: Dialect Bot
+  creator: Ben
+  version: v0.1
+  modified_date: 23 Sep 2016
+  background_color: "44AEEF"
+  icon: https://raw.githubusercontent.com/benpawle/Dialect-Bot/master/Dialect bot.tingapp/icon.png
+  github_url: https://github.com/benpawle/Dialect-Bot
+  zip_url: https://github.com/benpawle/Dialect-Bot/archive/master.zip
