@@ -116,3 +116,13 @@
   icon: https://raw.githubusercontent.com/omgmog/tingbot-adventure-time-giphy/master/src/icon.png
   github_url: https://github.com/omgmog/tingbot-adventure-time-giphy
   zip_url: https://github.com/omgmog/tingbot-adventure-time-giphy/releases/download/1.0.0/Adventure.Time.Giphy.tingapp.zip
+
+- name: Device Tester
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 22 Sep 2016
+  background_color: "43c920"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-device-tester/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-device-tester
+  zip_url: https://github.com/omgmog/tingbot-device-tester/releases/download/1.0.0/Device.Tester.-.v1.0.0.tingapp.zip
+  
