@@ -134,3 +134,13 @@
   icon: https://raw.githubusercontent.com/benpawle/Dialect-Bot/master/Dialect bot.tingapp/icon.png
   github_url: https://github.com/benpawle/Dialect-Bot
   zip_url: https://github.com/benpawle/Dialect-Bot/archive/master.zip
+  
+- name: Beautiful Time
+  creator: Will Manidis
+  version: v.0.1 
+  modified_date: 23 Sep 2016
+  background_color: "70C1B3"
+  icon: https://raw.githubusercontent.com/WillManidis/BeautifulTime/master/icon.png
+  github_url: https://github.com/WillManidis/BeautifulTime
+  zipurl: https://github.com/WillManidis/BeautifulTime/archive/master.zip
+  screenshot:
