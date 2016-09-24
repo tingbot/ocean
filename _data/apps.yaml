@@ -134,3 +134,13 @@
   icon: https://raw.githubusercontent.com/benpawle/Dialect-Bot/master/Dialect bot.tingapp/icon.png
   github_url: https://github.com/benpawle/Dialect-Bot
   zip_url: https://github.com/benpawle/Dialect-Bot/archive/master.zip
+  
+- name: Snake for Tingbot
+  creator: LB (sanyrual)
+  version: v1.0.0
+  modified_date: 23 Sep 2016
+  background_color: "0000ff"
+  icon: https://github.com/sanyrual/snake-for_tingbot/blob/master/icon.png
+  github_url: https://github.com/sanyrual/snake-for_tingbot
+  zip_url: https://github.com/sanyrual/snake-for_tingbot/blob/master/Snake.tingapp.zip
+
