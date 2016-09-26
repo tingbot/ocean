@@ -140,7 +140,7 @@
   version: v1.0.0
   modified_date: 23 Sep 2016
   background_color: "0000ff"
-  icon: https://github.com/sanyrual/snake-for_tingbot/blob/master/icon.png
+  icon: https://raw.githubusercontent.com/sanyrual/snake-for_tingbot/master/Snake.tingapp/icon.png
   github_url: https://github.com/sanyrual/snake-for_tingbot
-  zip_url: https://github.com/sanyrual/snake-for_tingbot/blob/master/Snake.tingapp.zip
+  zip_url: https://github.com/sanyrual/snake-for_tingbot/archive/master.zip
 
