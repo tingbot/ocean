@@ -1,21 +1,3 @@
-- name: Shoutout
-  creator: Tingbot
-  version: v1.0
-  modified_date: 30 Jan 2016
-  background_color: "3a3a3c"
-  icon: /img/apps/Shoutout-192x192.png
-  github_url: https://github.com/tingbot-apps/shoutout
-  zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
-  screenshot_url: /img/screenshots/Shoutout.png
-
-- name: Hangman
-  creator: Robert
-  version: v0.1
-  modified_date: 1 May 2016
-  background_color: "fec852"
-  icon: /img/apps/Hangman-192x192.png
-  github_url: https://github.com/StraightTuber/TingbotHangman
-  zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
 
 - name: Weather
   creator: Tingbot
@@ -107,6 +89,25 @@
   icon: /img/apps/ImgurFeed-192x192.png
   github_url: https://github.com/tingbot-apps/imgur-feed
   zip_url: https://github.com/tingbot-apps/imgur-feed/archive/master.zip
+
+- name: Hangman
+  creator: Robert
+  version: v0.1
+  modified_date: 1 May 2016
+  background_color: "fec852"
+  icon: /img/apps/Hangman-192x192.png
+  github_url: https://github.com/StraightTuber/TingbotHangman
+  zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
+
+- name: Shoutout
+  creator: Tingbot
+  version: v1.0
+  modified_date: 30 Jan 2016
+  background_color: "3a3a3c"
+  icon: /img/apps/Shoutout-192x192.png
+  github_url: https://github.com/tingbot-apps/shoutout
+  zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
+  screenshot_url: /img/screenshots/Shoutout.png
 
 - name: Adventure Time Giphy
   creator: Max Glenister

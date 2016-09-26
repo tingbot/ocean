@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <ul class="cards-list">
-    {% for app in site.data.apps %}
+    {% for app in site.data.apps reversed %}
       <li class="card">
         <div class="card-background" style="background-color: #{{ app.background_color }}">
           <img class="card-icon" src="{{ app.icon }}" />
