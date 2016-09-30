@@ -243,3 +243,13 @@
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/FlowerPower.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
   zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494877/FlowerPower.tingapp-1.0.0.zip
+  
+- name: Beautiful Time
+  creator: Will Manidis
+  version: v.0.1 
+  modified_date: 23 Sep 2016
+  background_color: "70C1B3"
+  icon: https://raw.githubusercontent.com/WillManidis/BeautifulTime/master/beautifultime.tingapp/icon.png
+  github_url: https://github.com/WillManidis/BeautifulTime
+  zipurl: https://github.com/WillManidis/BeautifulTime/archive/master.zip
+  screenshot:
