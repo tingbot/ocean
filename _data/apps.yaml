@@ -152,16 +152,16 @@
   background_color: "146dc9"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/WiFi.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494884/WiFi.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504142/WiFi.tingapp-1.0.0.zip
   
 - name: Weather
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "146dc9"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Weather.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494885/Weather.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504141/Weather.tingapp-1.0.1.zip
   
 - name: Timer
   creator: WhistleMaster
@@ -170,7 +170,7 @@
   background_color: "00a8ec"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Timer.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494887/Timer.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504139/Timer.tingapp-1.0.0.zip
   
 - name: TPG
   creator: WhistleMaster
@@ -179,25 +179,25 @@
   background_color: "ee5921"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/TPG.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494886/TPG.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504140/TPG.tingapp-1.0.0.zip
   
 - name: QoQa
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "04aeda"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/QoQa.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494881/QoQa.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504138/QoQa.tingapp-1.0.1.zip
   
 - name: Picture of the day
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "8a66a3"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/PictureOfTheDay.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494882/PictureOfTheDay.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504136/PictureOfTheDay.tingapp-1.0.1.zip
   
 - name: Pi-hole
   creator: WhistleMaster
@@ -206,40 +206,49 @@
   background_color: "5a9139"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Pi-hole.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494883/Pi-hole.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504137/Pi-hole.tingapp-1.0.0.zip
   
 - name: Photo Album
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "00aeef"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/PhotoAlbum.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494878/PhotoAlbum.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504135/PhotoAlbum.tingapp-1.0.1.zip
   
 - name: Ocean
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "ff9000"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Ocean.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494879/Ocean.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504134/Ocean.tingapp-1.0.1.zip
   
 - name: Info
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "009f3c"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Info.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494880/Info.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504133/Info.tingapp-1.0.1.zip
   
 - name: Flower Power
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 1 Oct 2016
   background_color: "ef9c00"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/FlowerPower.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/494877/FlowerPower.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504131/FlowerPower.tingapp-1.0.1.zip
+
+- name: Game Of Life
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 1 Oct 2016
+  background_color: "6dff2e"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/GameOfLife.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504132/GameOfLife.tingapp-1.0.0.zip
