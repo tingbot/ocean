@@ -251,7 +251,7 @@
   background_color: "70C1B3"
   icon: https://raw.githubusercontent.com/WillManidis/BeautifulTime/master/beautifultime.tingapp/icon.png
   github_url: https://github.com/WillManidis/BeautifulTime
-  zipurl: https://github.com/WillManidis/BeautifulTime/archive/master.zip
+  zip_url: https://github.com/WillManidis/BeautifulTime/archive/master.zip
   screenshot:
 
 - name: Game Of Life
