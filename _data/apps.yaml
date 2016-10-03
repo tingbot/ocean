@@ -262,3 +262,11 @@
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/GameOfLife.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
   zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504132/GameOfLife.tingapp-1.0.0.zip
+
+- name: Cheertings
+  creator: Godzil
+  version: 1.0
+  modified_date: 3 Oct 2016
+  icon: https://raw.githubusercontent.com/Godzil/Cheertings/master/CheerTing.tingapp/icon.png
+  github_url: https://github.com/Godzil/Cheertings
+  zip_url: https://github.com/Godzil/Cheertings/archive/master.zip
