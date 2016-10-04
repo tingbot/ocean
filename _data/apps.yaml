@@ -270,3 +270,22 @@
   icon: https://raw.githubusercontent.com/Godzil/Cheertings/master/CheerTing.tingapp/icon.png
   github_url: https://github.com/Godzil/Cheertings
   zip_url: https://github.com/Godzil/Cheertings/archive/master.zip
+
+- name: Clok
+  creator: Alexan Mardigian
+  version: v1.0.0
+  modified_date: 24 Sept 2016
+  background_color: "3a3a3c"
+  icon: https://github.com/Techno-Hwizrdry/clok/blob/master/clok.tingapp/icon.png
+  github_url: https://github.com/Techno-Hwizrdry
+  zip_url: https://github.com/Techno-Hwizrdry/clok/archive/master.zip
+  screenshot_url: https://github.com/Techno-Hwizrdry/clok/blob/master/clok.tingapp/clok_screenshot.png
+
+- name: Shredder
+  creator: Alexan Mardigian
+  version: v1.0
+  modified_date: 30 Sept 2016
+  background_color: "3a3a3c"
+  icon: https://github.com/Techno-Hwizrdry/Shredder/blob/master/shredder.tingapp/icon.png
+  github_url: https://github.com/Techno-Hwizrdry
+  zip_url: https://github.com/Techno-Hwizrdry/Shredder/archive/master.zip
