@@ -289,3 +289,12 @@
   icon: https://github.com/Techno-Hwizrdry/Shredder/blob/master/shredder.tingapp/icon.png
   github_url: https://github.com/Techno-Hwizrdry
   zip_url: https://github.com/Techno-Hwizrdry/Shredder/archive/master.zip
+
+- name: SABnzb Status
+  creator: TLK999
+  version: v1.0
+  modified_date: 5 Oct 2016
+  background_color: "ffff00"
+  icon: https://github.com/tlk999/tingbot/raw/master/sabnzb.tingapp/icon.png
+  github_url: https://github.com/tlk999/tingbot
+  zip_url: https://github.com/tlk999/tingbot/releases/download/1.0/sabnzb.tingapp-1.0.zip
