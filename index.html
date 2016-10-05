@@ -27,7 +27,7 @@ layout: default
           </div>
         </div>
 
-        <ul class="card-links" style="color: #{{ app.background_color }}">
+        <ul class="card-links" style="color: #{{ app.background_color | default: '3a3a3c' }}">
           {% if app.screenshot_url %}
           <li>
             <a  href="{{ app.screenshot_url }}" >
