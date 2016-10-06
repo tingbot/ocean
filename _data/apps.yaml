@@ -307,3 +307,12 @@
   icon: https://github.com/marcelogaio/GiphyTrending/raw/master/GiphyTrending.tingapp/icon.png
   github_url: https://github.com/marcelogaio/GiphyTrending
   zip_url: https://github.com/marcelogaio/GiphyTrending/archive/v1.0.2.zip
+  
+- name: YadaYadaYada
+  creator: Marcelo Gaio
+  version: v1.0
+  modified_date: 6 Oct 2016
+  background_color: "7A4DFF"
+  icon: https://github.com/marcelogaio/YadaYadaYada/raw/master/YadaYadaYada.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/YadaYadaYada
+  zip_url: https://github.com/marcelogaio/YadaYadaYada/archive/v1.0.zip
