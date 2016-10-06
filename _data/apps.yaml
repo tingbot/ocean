@@ -301,7 +301,7 @@
 
 - name: GiphyTrending
   creator: Marcelo Gaio
-  version: v1.0
+  version: v1.0.1
   modified_date: 6 Oct 2016
   background_color: "00468C"
   icon: https://github.com/marcelogaio/GiphyTrending/raw/master/GiphyTrending.tingapp/icon.png
