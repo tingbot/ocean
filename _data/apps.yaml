@@ -298,3 +298,12 @@
   icon: https://github.com/tlk999/tingbot/raw/master/sabnzb.tingapp/icon.png
   github_url: https://github.com/tlk999/tingbot
   zip_url: https://github.com/tlk999/tingbot/releases/download/1.0/sabnzb.tingapp-1.0.zip
+
+- name: GiphyTrending
+  creator: Marcelo Gaio
+  version: v1.0
+  modified_date: 6 Oct 2016
+  background_color: "00468C"
+  icon: https://github.com/marcelogaio/GiphyTrending/raw/master/GiphyTrending.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/GiphyTrending
+  zip_url: https://github.com/marcelogaio/GiphyTrending/archive/v1.0.zip
