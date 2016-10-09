@@ -325,3 +325,13 @@
   github_url: https://github.com/abradshaw/Fritzbox-Bandwidth
   zip_url: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp.zip
   screenshot_url: https://github.com/abradshaw/Fritzbox-Bandwidth/blob/master/fritzbox-bandwidth.tingapp/screenshot.png
+  
+- name: SABDash
+  creator: Paul Holmes
+  version: v0.1
+  modified_date: 9 Oct 2016
+  icon: https://raw.githubusercontent.com/codinghands/sabdash/master/icon.png
+  github_url: https://github.com/codinghands/sabdash
+  zip_url: https://github.com/codinghands/sabdash/archive/master.zip
+  screenshot_url: https://s9.postimg.org/mj9b4onz3/demo.gif
+  background_color: "001F3F"
