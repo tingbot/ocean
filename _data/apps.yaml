@@ -325,3 +325,12 @@
   github_url: https://github.com/abradshaw/Fritzbox-Bandwidth
   zip_url: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp.zip
   screenshot_url: https://github.com/abradshaw/Fritzbox-Bandwidth/blob/master/fritzbox-bandwidth.tingapp/screenshot.png
+
+- name: weather JP
+  creator: HeRoMo
+  version: 1.0.1
+  modified_date: 9 Oct 2016
+  icon: https://github.com/HeRoMo/tingbot_weather_jp/raw/master/weather_jp.tingapp/icon.png
+  github_url: https://github.com/HeRoMo/tingbot_weather_jp
+  zip_url: https://github.com/HeRoMo/tingbot_weather_jp/releases/download/1.0.1/weather_jp.tingapp.zip
+  screenshot_url: https://github.com/HeRoMo/tingbot_weather_jp/blob/master/screenshot.png
