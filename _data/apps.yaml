@@ -344,3 +344,21 @@
   zip_url: https://github.com/codinghands/sabdash/archive/master.zip
   screenshot_url: https://s9.postimg.org/mj9b4onz3/demo.gif
   background_color: "001F3F"
+
+- name: Tic Tac Toe
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 10 Oct 2016
+  background_color: "289f92"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/TicTacToe.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519437/TicTacToe.tingapp-1.0.0.zip
+  
+- name: Dice
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 10 Oct 2016
+  background_color: "39654a"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Dice.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519436/Dice.tingapp-1.0.0.zip
