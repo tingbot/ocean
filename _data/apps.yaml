@@ -298,3 +298,39 @@
   icon: https://github.com/tlk999/tingbot/raw/master/sabnzb.tingapp/icon.png
   github_url: https://github.com/tlk999/tingbot
   zip_url: https://github.com/tlk999/tingbot/releases/download/1.0/sabnzb.tingapp-1.0.zip
+
+- name: GiphyTrending
+  creator: Marcelo Gaio
+  version: v1.0.3
+  modified_date: 6 Oct 2016
+  background_color: "00468C"
+  icon: https://github.com/marcelogaio/GiphyTrending/raw/master/GiphyTrending.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/GiphyTrending
+  zip_url: https://github.com/marcelogaio/GiphyTrending/archive/v1.0.3.zip
+  
+- name: YadaYadaYada
+  creator: Marcelo Gaio
+  version: v1.0
+  modified_date: 6 Oct 2016
+  background_color: "7A4DFF"
+  icon: https://github.com/marcelogaio/YadaYadaYada/raw/master/YadaYadaYada.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/YadaYadaYada
+  zip_url: https://github.com/marcelogaio/YadaYadaYada/archive/v1.0.zip
+
+- name: Fritzbox Bandwidth
+  creator: Ade Bradshaw
+  version: v0.1
+  modified_date: 7 Oct 2016
+  icon: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp/icon.png
+  github_url: https://github.com/abradshaw/Fritzbox-Bandwidth
+  zip_url: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp.zip
+  screenshot_url: https://github.com/abradshaw/Fritzbox-Bandwidth/blob/master/fritzbox-bandwidth.tingapp/screenshot.png
+
+- name: weather JP
+  creator: HeRoMo
+  version: 1.0.1
+  modified_date: 9 Oct 2016
+  icon: https://github.com/HeRoMo/tingbot_weather_jp/raw/master/weather_jp.tingapp/icon.png
+  github_url: https://github.com/HeRoMo/tingbot_weather_jp
+  zip_url: https://github.com/HeRoMo/tingbot_weather_jp/releases/download/1.0.1/weather_jp.tingapp.zip
+  screenshot_url: https://github.com/HeRoMo/tingbot_weather_jp/blob/master/screenshot.png
