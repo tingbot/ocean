@@ -334,3 +334,13 @@
   github_url: https://github.com/HeRoMo/tingbot_weather_jp
   zip_url: https://github.com/HeRoMo/tingbot_weather_jp/releases/download/1.0.1/weather_jp.tingapp.zip
   screenshot_url: https://github.com/HeRoMo/tingbot_weather_jp/blob/master/screenshot.png
+  
+- name: SABDash
+  creator: Paul Holmes
+  version: v0.1
+  modified_date: 9 Oct 2016
+  icon: https://raw.githubusercontent.com/codinghands/sabdash/master/sabdash.tingapp/icon.png
+  github_url: https://github.com/codinghands/sabdash
+  zip_url: https://github.com/codinghands/sabdash/archive/master.zip
+  screenshot_url: https://s9.postimg.org/mj9b4onz3/demo.gif
+  background_color: "001F3F"
