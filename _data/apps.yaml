@@ -165,12 +165,12 @@
   
 - name: Timer
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 27 Oct 2016
   background_color: "00a8ec"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Timer.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504139/Timer.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/556233/Timer.tingapp-1.0.1.zip
   
 - name: TPG
   creator: WhistleMaster
@@ -362,3 +362,12 @@
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Dice.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
   zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519436/Dice.tingapp-1.0.0.zip
+  
+- name: EventsViewer
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 27 Oct 2016
+  background_color: "2d98f5"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/EventsViewer.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/556232/EventsViewer.tingapp-1.0.0.zip
