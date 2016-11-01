@@ -237,12 +237,12 @@
   
 - name: Flower Power
   creator: WhistleMaster
-  version: v1.0.1
-  modified_date: 1 Oct 2016
+  version: v1.1.0
+  modified_date: 1 Nov 2016
   background_color: "ef9c00"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/FlowerPower.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504131/FlowerPower.tingapp-1.0.1.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/564182/FlowerPower.tingapp-1.1.0.zip
   
 - name: Beautiful Time
   creator: Will Manidis
