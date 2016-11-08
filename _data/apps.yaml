@@ -371,3 +371,12 @@
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/EventsViewer.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
   zip_url: https://github.com/WhistleMaster/tingbot-apps/files/556275/EventsViewer.tingapp-1.0.0.zip
+  
+- name: Ping Network
+  creator: Andy Christiawan
+  version: v0.1
+  modified_date: 8 Nov 2016
+  background_color: "2ecc71"
+  icon: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/Ping.tingapp/icon.png
+  github_url: https://github.com/bungandy/tingbot-ping
+  zip_url: https://github.com/bungandy/tingbot-ping/archive/v0.1.zip
