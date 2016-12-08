@@ -156,12 +156,12 @@
   
 - name: Weather
   creator: WhistleMaster
-  version: v1.0.1
-  modified_date: 1 Oct 2016
+  version: v1.1.0
+  modified_date: 8 Dec 2016
   background_color: "146dc9"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Weather.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504141/Weather.tingapp-1.0.1.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/639759/Weather.tingapp-1.1.0.zip
   
 - name: Timer
   creator: WhistleMaster
@@ -380,3 +380,12 @@
   icon: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/Ping.tingapp/icon.png
   github_url: https://github.com/bungandy/tingbot-ping
   zip_url: https://github.com/bungandy/tingbot-ping/archive/v0.1.zip
+ 
+- name: Reddit
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 8 Dec 2016
+  background_color: "fc471e"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Reddit.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/639758/Reddit.tingapp-1.0.0.zip
