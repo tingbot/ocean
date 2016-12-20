@@ -398,3 +398,11 @@
   icon: https://raw.githubusercontent.com/waves-of-intelligence/Tingbot-shutdown/master/Tingbot shutdown.tingapp/icon.png
   github_url: https://github.com/waves-of-intelligence/Tingbot-shutdown
   zip_url: https://github.com/waves-of-intelligence/Tingbot-shutdown/archive/master.zip
+  
+- name: RobotArm
+  creator: Phil Underwood
+  version: v1.0
+  modified_date: 20 Dec 2016
+  icon: https://raw.githubusercontent.com/furbrain/RobotArm/master/RobotArm.tingapp/icon.png
+  github_url: https://github.com/furbrain/RobotArm
+  zip_url: https://github.com/furbrain/RobotArm/archive/master.zip
