@@ -415,10 +415,10 @@
   github_url: https://github.com/thomasguillard/Make-it-Snow
   zip_url: https://github.com/thomasguillard/Make-it-Snow/archive/master.zip
   
- - name: Blast!
-   creator: Michael Leach
-   version: v1.0
-   modified_date: 20 Jan 2017
-   icon: https://raw.githubusercontent.com/MichaelLeach/blast/master/blast.tingapp/icon.png
-   github_url: https://github.com/MichaelLeach/blast
-   zip_url: https://github.com/MichaelLeach/blast/archive/master.zip
+- name: Blast!
+  creator: Michael Leach
+  version: v1.0
+  modified_date: 20 Jan 2017
+  icon: https://raw.githubusercontent.com/MichaelLeach/blast/master/blast.tingapp/icon.png
+  github_url: https://github.com/MichaelLeach/blast
+  zip_url: https://github.com/MichaelLeach/blast/archive/master.zip
