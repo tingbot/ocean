@@ -425,9 +425,9 @@
   
   - name: CoffeeBot
   creator: Orange Hive GmbH
-  version: v1.5.0
+  version: v1.5.1
   modified_date: 02 Feb 2017
   icon: https://raw.githubusercontent.com/orange-hive/coffeeBot/master/icon.png
   github_url: https://github.com/orange-hive/coffeeBot.git
-  zip_url: https://github.com/orange-hive/coffeeBot/archive/v1.5.0.zip
+  zip_url: https://github.com/orange-hive/coffeeBot/releases/download/v1.5.1/coffeeBot-1.5.1.tingapp.zip
 
