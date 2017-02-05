@@ -431,3 +431,14 @@
   github_url: https://github.com/orange-hive/coffeeBot.git
   zip_url: https://github.com/orange-hive/coffeeBot/releases/download/v1.5.1/coffeeBot.tingapp.zip
   screenshot_url: https://cloud.githubusercontent.com/assets/1244307/22550743/65e8ac1c-e949-11e6-85cf-6b22bcbc045d.png
+
+- name: Wordclock
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 05 Feb 2017
+  background_color: "1a1a2a"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-wordclock
+  zip_url: https://github.com/omgmog/tingbot-wordclock/releases/download/1.0.0/Tingbot.Wordclock.-.v0.1.tingapp.zip
+  screenshot_url: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/python_2017-02-05_14-42-29.png
+  
