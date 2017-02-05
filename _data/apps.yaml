@@ -434,11 +434,11 @@
 
 - name: Wordclock
   creator: Max Glenister
-  version: v1.0.0
+  version: v1.0.1
   modified_date: 05 Feb 2017
   background_color: "1a1a2a"
   icon: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/src/icon.png
   github_url: https://github.com/omgmog/tingbot-wordclock
-  zip_url: https://github.com/omgmog/tingbot-wordclock/releases/download/1.0.0/Tingbot.Wordclock.-.v0.1.tingapp.zip
+  zip_url: https://github.com/omgmog/tingbot-wordclock/releases/download/1.0.1/Tingbot.Wordclock.-.v0.2.tingapp.zip
   screenshot_url: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/python_2017-02-05_14-42-29.png
   
