@@ -425,11 +425,11 @@
   
 - name: CoffeeBot
   creator: Orange Hive GmbH
-  version: v1.5.1
-  modified_date: 02 Feb 2017
+  version: v1.5.3
+  modified_date: 07 Feb 2017
   icon: https://raw.githubusercontent.com/orange-hive/coffeeBot/master/icon.png
   github_url: https://github.com/orange-hive/coffeeBot.git
-  zip_url: https://github.com/orange-hive/coffeeBot/releases/download/v1.5.1/coffeeBot.tingapp.zip
+  zip_url: https://github.com/orange-hive/coffeeBot/releases/download/v1.5.3/coffeeBot.tingapp.zip
   screenshot_url: https://cloud.githubusercontent.com/assets/1244307/22550743/65e8ac1c-e949-11e6-85cf-6b22bcbc045d.png
 
 - name: Wordclock
