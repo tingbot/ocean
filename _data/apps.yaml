@@ -415,7 +415,6 @@
   github_url: https://github.com/thomasguillard/Make-it-Snow
   zip_url: https://github.com/thomasguillard/Make-it-Snow/archive/master.zip
   
-
 - name: Blast!
   creator: Michael Leach
   version: v1.0
@@ -451,3 +450,10 @@
   github_url: https://github.com/Vampie/Quotes_time
   zip_url: https://github.com/Vampie/Quotes_time/archive/master.zip
 
+- name: Analog Clock
+  creator: Jesse Anderson
+  version: v1.0
+  modified_date: 20 Jan 2017
+  icon: https://github.com/jessea3/Analog-Clock/raw/master/analog_clock.tingapp/icon.png
+  github_url: https://github.com/jessea3/Analog-Clock
+  zip_url: https://github.com/jessea3/Analog-Clock/archive/master.zip
