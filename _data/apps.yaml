@@ -457,3 +457,11 @@
   icon: https://github.com/jessea3/Analog-Clock/raw/master/analog_clock.tingapp/icon.png
   github_url: https://github.com/jessea3/Analog-Clock
   zip_url: https://github.com/jessea3/Analog-Clock/archive/master.zip
+  
+- name: NASA APOD
+  creator: Jake Lawley
+  version: v1.0
+  modified_date: 26 Mar 2017
+  icon: https://github.com/jakelawley/NasaApod/raw/master/NasaApod/icon.png
+  github_url: https://github.com/jakelawley/NasaApod
+  zip_url: https://github.com/jakelawley/NasaApod/raw/master/NasaApod.zip
