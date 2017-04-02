@@ -465,3 +465,11 @@
   icon: https://github.com/jakelawley/NasaApod/raw/master/NasaApod/icon.png
   github_url: https://github.com/jakelawley/NasaApod
   zip_url: https://github.com/jakelawley/NasaApod/raw/master/NasaApod.zip
+  
+  - name: Flashcards
+  creator: Robert Westbury
+  version: v1.0
+  modified_date: 02 April 2017
+  icon: https://github.com/StraightTuber/Tingbot-Flashcards/raw/master/Flashcard.tingapp/icon.png
+  github_url: https://github.com/StraightTuber/Tingbot-Flashcards
+  zip_url: https://github.com/StraightTuber/Tingbot-Flashcards/archive/master.zip
