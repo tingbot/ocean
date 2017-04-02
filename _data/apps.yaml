@@ -466,7 +466,7 @@
   github_url: https://github.com/jakelawley/NasaApod
   zip_url: https://github.com/jakelawley/NasaApod/raw/master/NasaApod.zip
   
-  - name: Flashcards
+- name: Flashcards
   creator: Robert Westbury
   version: v1.0
   modified_date: 02 April 2017
