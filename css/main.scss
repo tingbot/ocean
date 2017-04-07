@@ -53,10 +53,21 @@ $on-laptop:        800px;
 
 body {
     background-color: #fdfdfd;
+    font-family: "Geneva", Helvetica, Arial, sans-serif;
+}
+
+.supernav {
+    color: #00a2d6;
+}
+
+.supernav-item-apps {
+    background-color: #f3f3f3;
+}
+
+.margins {
     max-width: 1100px;
     margin: 0 auto;
     padding: 50px 37px;
-    font-family: "Geneva", Helvetica, Arial, sans-serif;
 }
 
 .logotype {
