@@ -473,3 +473,12 @@
   icon: https://github.com/StraightTuber/Tingbot-Flashcards/raw/master/Flashcard.tingapp/icon.png
   github_url: https://github.com/StraightTuber/Tingbot-Flashcards
   zip_url: https://github.com/StraightTuber/Tingbot-Flashcards/archive/master.zip
+
+- name: TingPlay
+  creator: Phil Underwood
+  version: v1.0
+  modified_date: 07 April 2017
+  icon: https://github.com/furbrain/tingplay/raw/master/tingplayer.tingapp/icon.png
+  github_url: https://github.com/furbrain/tingplay
+  zip_url: https://github.com/furbrain/tingplay/archive/master.zip
+  
