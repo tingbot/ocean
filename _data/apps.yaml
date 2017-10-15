@@ -482,3 +482,10 @@
   github_url: https://github.com/furbrain/tingplay
   zip_url: https://github.com/furbrain/tingplay/archive/master.zip
   
+- name: HomeAuto
+  creator: Mike Overy
+  version: v0.1
+  modified_date: 15 October 2017
+  icon: https://github.com/mikeovery/homeautoPi/raw/master/homeauto.tingapp/icon.png
+  github_url: https://github.com/mikeovery/homeautoPi
+  zip_url: https://github.com/mikeovery/homeautoPi/archive/master.zip
