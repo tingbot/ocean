@@ -489,3 +489,11 @@
   icon: https://github.com/mikeovery/homeautoPi/raw/master/homeauto.tingapp/icon.png
   github_url: https://github.com/mikeovery/homeautoPi
   zip_url: https://github.com/mikeovery/homeautoPi/archive/master.zip
+
+- name: Estonian Libraries Live
+  creator: Meelis Lilbok
+  version: v1.2
+  modified_date: 03 February 2018
+  icon: https://raw.githubusercontent.com/meelisl/estlib_live/master/estlib/icon.png
+  github_url: https://github.com/meelisl/estlib_live
+  zip_url: https://github.com/meelisl/estlib_live/archive/master.zip
