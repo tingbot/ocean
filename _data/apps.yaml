@@ -201,12 +201,12 @@
   
 - name: Pi-hole
   creator: WhistleMaster
-  version: v1.0.0
-  modified_date: 27 Sep 2016
+  version: v1.0.1
+  modified_date: 14 Feb 2018
   background_color: "5a9139"
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Pi-hole.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
-  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504137/Pi-hole.tingapp-1.0.0.zip
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/1723975/Pi-hole.tingapp-1.0.1.zip
   
 - name: Photo Album
   creator: WhistleMaster
