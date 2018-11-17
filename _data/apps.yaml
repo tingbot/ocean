@@ -497,3 +497,13 @@
   icon: https://raw.githubusercontent.com/meelisl/estlib_live/master/estlib/icon.png
   github_url: https://github.com/meelisl/estlib_live
   zip_url: https://github.com/meelisl/estlib_live/archive/master.zip
+  
+  - name: Screen Brightness
+  creator: Seb Flippence
+  version: v1.0.0
+  modified_date: 20 Jul 2018
+  background_color: "217aef"
+  icon: https://raw.githubusercontent.com/sebflipper/tingbot-screen-brightness/master/Screen%20Brightness.tingapp/icon.png
+  github_url: https://github.com/sebflipper/tingbot-screen-brightness
+  zip_url: https://github.com/sebflipper/tingbot-screen-brightness/archive/master.zip
+  screenshot_url: https://raw.githubusercontent.com/sebflipper/tingbot-screen-brightness/master/screenshot.png
