@@ -497,8 +497,8 @@
   icon: https://raw.githubusercontent.com/meelisl/estlib_live/master/estlib/icon.png
   github_url: https://github.com/meelisl/estlib_live
   zip_url: https://github.com/meelisl/estlib_live/archive/master.zip
-  
-  - name: Screen Brightness
+
+- name: Screen Brightness
   creator: Seb Flippence
   version: v1.0.0
   modified_date: 20 Jul 2018
